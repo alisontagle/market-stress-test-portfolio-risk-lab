@@ -77,15 +77,8 @@ benchmark using historical backtesting and downside-risk measures.
 4. Identify market regimes with a hidden Markov model.
 5. Test whether the optimized strategies remain superior after costs.
 
-## Résumé bullet
+## Author
 
-> Developed a Python portfolio-risk platform using market data, constrained optimization, Monte
-> Carlo simulation, VaR/CVaR analysis, and stress testing; compared optimized strategies with an
-> equal-weighted benchmark through an interactive Streamlit dashboard.
-
-## Academic integrity
-
-Alison should be able to explain every formula, design choice, chart, and limitation before using
-this project in an application or interview. The best version will include her own analysis,
-interpretation, and extensions.
+**Alison Tagle**  
+Finance student at San Diego State University passionate in portfolio management, financial risk analysis, quantitative finance, and wealth management.
 
