@@ -80,5 +80,5 @@ benchmark using historical backtesting and downside-risk measures.
 ## Author
 
 **Alison Tagle**  
-Finance student at San Diego State University passionate in portfolio management, financial risk analysis, quantitative finance, and wealth management.
+Finance student at San Diego State University with interests in portfolio management, financial risk analysis, quantitative finance, and wealth management.
 
